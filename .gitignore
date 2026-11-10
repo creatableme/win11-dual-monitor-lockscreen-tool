@@ -1,0 +1,17 @@
+.env
+.env.*
+*.cer
+*.crt
+*.key
+*.pem
+*.pfx
+*.p12
+*.exe
+*.dll
+*.log
+settings.json
+*-filled.png
+out/
+work/
+bin/
+obj/
