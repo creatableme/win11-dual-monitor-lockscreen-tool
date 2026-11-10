@@ -1,8 +1,8 @@
-# Windows 11 双屏锁屏壁纸
+# Windows 11 双屏锁屏壁纸工具
 
-**Windows 11 Dual-Monitor Lock Screen Wallpaper** · [English](README.en.md)
+**Windows 11 Dual-Monitor Lock Screen Wallpaper Tool** · [English](README.en.md)
 
-让 Windows 11 在扩展显示模式下，从刚锁屏到呼出密码输入界面，主屏和副屏都能显示锁屏壁纸。副屏按自己的屏幕比例铺满，保留 Windows 原生锁屏与登录流程。
+这套工具帮助你配置 Windows 11 的双屏锁屏壁纸。在扩展显示模式下，从刚锁屏到呼出密码输入界面，主屏和副屏都能显示壁纸。副屏按自身比例铺满，保留 Windows 原生锁屏与登录流程。
 
 ## 两个锁屏阶段
 

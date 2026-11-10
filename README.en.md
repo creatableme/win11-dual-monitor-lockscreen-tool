@@ -1,8 +1,8 @@
-# Windows 11 Dual-Monitor Lock Screen Wallpaper
+# Windows 11 Dual-Monitor Lock Screen Wallpaper Tool
 
-**Windows 11 双屏锁屏壁纸** · [简体中文](README.md)
+**Windows 11 双屏锁屏壁纸工具** · [简体中文](README.md)
 
-Show wallpaper on both monitors in Windows 11 Extend mode, from the initial lock screen to the native password or PIN prompt. Fit the secondary display without stretching the image or adding black bars.
+Set up lock screen wallpaper on both monitors in Windows 11 Extend mode, from the initial lock screen to the native password or PIN prompt. The included crop helper fits wallpaper to the secondary display without stretching the image or adding black bars.
 
 ## How the two stages work
 
